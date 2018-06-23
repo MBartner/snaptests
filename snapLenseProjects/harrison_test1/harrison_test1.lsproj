@@ -1,0 +1,482 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1529774894742",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Box_2"
+                    ],
+                    [
+                        "Camera_Perspective Output"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "startupshell-logo3D_red"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials",
+                        "None"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Meshes",
+                        "Model_1"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Meshes",
+                        "Model_2"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Textures"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Textures",
+                        "deep_red.jpg"
+                    ],
+                    [
+                        "startupshell_logo"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                },
+                {
+                    "k": "2",
+                    "v": "0"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1529771084848976:1092",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Sprites\/startupshell_logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1529772313930517:2196",
+                    "name": "\/Resources\/Resource13",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1529772314118696:2201",
+                    "name": "\/Resources\/Resource14.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "relative": ".\\deep_red.jpg",
+                        "absolute": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/.\\deep_red.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1529772314119670:2208",
+                    "name": "\/Resources\/Resource15",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "None"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1529772314145678:2216",
+                    "name": "\/Resources\/Resource19.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Model_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1529772314146077:2220",
+                    "name": "\/Resources\/Resource20.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Model_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1529772643136916:6047",
+                    "name": "\/Resources\/Resource21.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1529772677295739:6437",
+                    "name": "\/Resources\/Resource26.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1529774069161454:12987",
+                    "name": "\/Resources\/Resource33",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1529774553758662:15484",
+                    "name": "Camera_Perspective Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1529772461249728:5784",
+                "4": "1529772610530710:6037",
+                "5": "1529772643134006:6043",
+                "6": "1529772677293390:6433",
+                "7": "1529774069046874:12971",
+                "8": "1529774069048967:12972"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Model_Layer",
+                    "layerMask": "2"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "startupshell-logo3D_red",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "deep_red.jpg",
+                                        "resourceId": "14",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "None",
+                                        "resourceId": "15",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "13",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Model_1",
+                                        "resourceId": "19",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Model_2",
+                                        "resourceId": "20",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "startupshell_logo",
+                        "resourceId": "12",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Box",
+                        "resourceId": "21",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Box_2",
+                        "resourceId": "26",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Camera Output Ortho",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Camera_Perspective Output",
+                        "resourceId": "34",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "12",
+                    "path": "startupshell_logo.png"
+                },
+                {
+                    "id": "14",
+                    "path": "startupshell-logo3D_red\/Textures\/deep_red.jpg"
+                },
+                {
+                    "id": "19",
+                    "path": "startupshell-logo3D_red\/Meshes\/Model_1.mesh"
+                },
+                {
+                    "id": "20",
+                    "path": "startupshell-logo3D_red\/Meshes\/Model_2.mesh"
+                },
+                {
+                    "id": "21",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "26",
+                    "path": "Box_2.mesh"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
