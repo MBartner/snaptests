@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1529774894742",
+    "lastChanged": "1529893087016",
     "preview": "",
     "isReadOnly": "false",
     "studioVersion": {
@@ -32,6 +32,12 @@
                     ],
                     [
                         "Camera_Perspective Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Script_2"
                     ],
                     [
                         "echopark_diff"
@@ -85,7 +91,9 @@
             "collapsedList": [
                 [
                     "101:100",
-                    "1517446348227994:84813"
+                    "1517446348227994:84813",
+                    "1529772461249728:5784",
+                    "1529774069046874:12971"
                 ]
             ]
         },
@@ -96,7 +104,7 @@
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false"
+            "is_back_camera": "true"
         },
         "InspectorUiComponent": {
             "collapsedList": [
@@ -116,6 +124,10 @@
                 {
                     "k": "2",
                     "v": "0"
+                },
+                {
+                    "k": "3",
+                    "v": "1"
                 }
             ]
         }
@@ -277,6 +289,26 @@
                     "flags": "0",
                     "type": "1",
                     "subtype": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1529861969490119:1365",
+                    "name": "\/Resources\/Resource35.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1529892652984042:1446",
+                    "name": "\/Resources\/Resource36.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
                 }
             ]
         },
@@ -301,7 +333,7 @@
             }
         },
         "LayerComponent": {
-            "nextLayerId": "3",
+            "nextLayerId": "4",
             "showOrthographicLayer": "true",
             "layersInfo": [
                 {
@@ -318,6 +350,11 @@
                     "layerId": "2",
                     "layerName": "Model_Layer",
                     "layerMask": "2"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Layer 1",
+                    "layerMask": "4"
                 }
             ]
         },
@@ -349,13 +386,13 @@
                                 "groups": "",
                                 "resources": [
                                     {
-                                        "name": "None",
-                                        "resourceId": "15",
+                                        "name": "Material.001",
+                                        "resourceId": "13",
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Material.001",
-                                        "resourceId": "13",
+                                        "name": "None",
+                                        "resourceId": "15",
                                         "extension": ""
                                     }
                                 ]
@@ -381,6 +418,11 @@
                     }
                 ],
                 "resources": [
+                    {
+                        "name": "Camera Output Ortho",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
                     {
                         "name": "Device Camera Texture",
                         "resourceId": "2",
@@ -412,14 +454,19 @@
                         "extension": "mesh"
                     },
                     {
-                        "name": "Camera Output Ortho",
-                        "resourceId": "1",
-                        "extension": ""
-                    },
-                    {
                         "name": "Camera_Perspective Output",
                         "resourceId": "34",
                         "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "35",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Script_2",
+                        "resourceId": "36",
+                        "extension": "js"
                     }
                 ]
             },
@@ -455,11 +502,23 @@
                 {
                     "id": "26",
                     "path": "Box_2.mesh"
+                },
+                {
+                    "id": "35",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "36",
+                    "path": "Script_2.js"
                 }
             ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1529772461249728:5784"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
