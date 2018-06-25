@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1529774961913",
+    "lastChanged": "1529902323354",
     "preview": "",
     "isReadOnly": "false",
     "studioVersion": {
@@ -74,13 +74,18 @@
                     ],
                     [
                         "startupshell_logo_small"
+                    ],
+                    [
+                        "test"
                     ]
                 ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1529772306477038:6487"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
@@ -94,7 +99,10 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1529773434384514:25011",
+                    "1529892700151701:38151"
+                ]
             ]
         },
         "LayerUiComponent": {
@@ -257,6 +265,16 @@
                     "flags": "1",
                     "type": "4",
                     "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1529892705456765:38327",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
                 }
             ]
         },
@@ -274,13 +292,11 @@
                 "2": "1517446348228144:84822",
                 "3": "1529769276693952:1309",
                 "4": "1529769276709725:1312",
-                "5": "1529771671790319:5472",
-                "6": "1529771678944257:5724",
-                "7": "1529771694451691:6133",
-                "8": "1529772306368945:6462",
-                "9": "1529772306477038:6487",
-                "10": "1529772306477050:6489",
-                "11": "1529772306477582:6495"
+                "5": "1529771694451691:6133",
+                "6": "1529772306368945:6462",
+                "7": "1529772306477038:6487",
+                "8": "1529772306477050:6489",
+                "9": "1529772306477582:6495"
             }
         },
         "LayerComponent": {
@@ -304,30 +320,6 @@
         }
     },
     "controller": {
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1529771694451691:6133"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
-        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -367,13 +359,13 @@
                                 "groups": "",
                                 "resources": [
                                     {
-                                        "name": "Model_2",
-                                        "resourceId": "25",
+                                        "name": "Model_1",
+                                        "resourceId": "24",
                                         "extension": "mesh"
                                     },
                                     {
-                                        "name": "Model_1",
-                                        "resourceId": "24",
+                                        "name": "Model_2",
+                                        "resourceId": "25",
                                         "extension": "mesh"
                                     }
                                 ]
@@ -417,6 +409,11 @@
                         "name": "Initialize",
                         "resourceId": "27",
                         "extension": "js"
+                    },
+                    {
+                        "name": "test",
+                        "resourceId": "28",
+                        "extension": "js"
                     }
                 ]
             },
@@ -452,8 +449,36 @@
                 {
                     "id": "27",
                     "path": "Initialize.js"
+                },
+                {
+                    "id": "28",
+                    "path": "test.js"
                 }
             ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1517446348228144:84822"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
         }
     }
 }
