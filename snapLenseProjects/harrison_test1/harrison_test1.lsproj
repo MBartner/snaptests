@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1529893087016",
+    "lastChanged": "1529894216405",
     "preview": "",
     "isReadOnly": "false",
     "studioVersion": {
@@ -92,7 +92,7 @@
                 [
                     "101:100",
                     "1517446348227994:84813",
-                    "1529772461249728:5784",
+                    "1529772610530710:6037",
                     "1529774069046874:12971"
                 ]
             ]
@@ -108,7 +108,9 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1529862012542869:583"
+                ]
             ]
         },
         "LayerUiComponent": {
@@ -516,7 +518,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1529772461249728:5784"
+                    "1529772610530710:6037"
                 ]
             }
         },

@@ -1,0 +1,885 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1530144986382",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Change_Lense_Back"
+                    ],
+                    [
+                        "Change_Lense_Front"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Materials",
+                        "trophy_pbr"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "startupshell-logo3D_red"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Materials",
+                        "None"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Meshes",
+                        "Model_1"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Meshes",
+                        "Model_2"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Textures"
+                    ],
+                    [
+                        "startupshell-logo3D_red",
+                        "Textures",
+                        "deep_red.jpg"
+                    ],
+                    [
+                        "startupshell_logo"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1498868548554305:767",
+                    "1508884415036595:113880",
+                    "1510687041436767:18328",
+                    "1520377736560929:83996",
+                    "1529974774827500:10821",
+                    "1529975226099671:13782"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Static Object",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "1",
+                    "v": "20"
+                },
+                {
+                    "k": "2",
+                    "v": "21"
+                },
+                {
+                    "k": "3",
+                    "v": "0"
+                },
+                {
+                    "k": "4",
+                    "v": "1"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1510687041464881:18334",
+                    "name": "\/Resources\/Resource157.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "trophy"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1510687140422169:18756",
+                    "name": "\/Resources\/Resource159.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1510687140556884:18765",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1510687316698085:19056",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1510687316714742:19065",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1510853662796593:7374",
+                    "name": "\/Resources\/Resource173.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1511403648791631:290790",
+                    "name": "\/Resources\/Resource174",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1520028540541521:739995",
+                    "name": "\/Resources\/Resource179",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "180",
+                    "uid": "1529974542228042:8576",
+                    "name": "\/Resources\/Resource180",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "181",
+                    "uid": "1529974542329214:8581",
+                    "name": "\/Resources\/Resource181.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "relative": ".\\deep_red.jpg",
+                        "absolute": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/.\\deep_red.jpg"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "182",
+                    "uid": "1529974542330788:8588",
+                    "name": "\/Resources\/Resource182",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "None"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "186",
+                    "uid": "1529974542354673:8596",
+                    "name": "\/Resources\/Resource186.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Model_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1529974542355032:8600",
+                    "name": "\/Resources\/Resource187.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/startupshell\/startupshell-logo3D_red.obj",
+                    "additionalProperties": {
+                        "name": "Model_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "190",
+                    "uid": "1529975214261562:13688",
+                    "name": "\/Resources\/Resource190.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Sprites\/startupshell_logo.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "191",
+                    "uid": "1529975226119398:13841",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "193",
+                    "uid": "1529975226298475:13864",
+                    "name": "\/Resources\/Resource193",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1530142856328492:2267",
+                    "name": "\/Resources\/Resource194.js",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/snapLenseProjects\/harrison_test1\/Public\/Script.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1530143317843166:7609",
+                    "name": "\/Resources\/Resource195.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1530143897285468:16404",
+                    "name": "\/Resources\/Resource196.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1520028516590214:738911",
+                "6": "1520377736560929:83996",
+                "7": "1529974542226138:8575",
+                "8": "1529974542354177:8593",
+                "9": "1529974542354186:8594",
+                "10": "1529974542354681:8598",
+                "11": "1529974774827500:10821",
+                "12": "1529975226099671:13782",
+                "13": "1529975226119646:13848",
+                "14": "1529975226122624:13849",
+                "15": "1530144065171298:18953"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "5",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Layer 1",
+                    "layerMask": "2"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Layer 2",
+                    "layerMask": "4"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_diff",
+                                "resourceId": "171",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_spec",
+                                "resourceId": "172",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "148",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "175",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "174",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "176",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trophy [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_pbr",
+                                        "resourceId": "179",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy",
+                                        "resourceId": "157",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_02_lambert1_materialParams",
+                                        "resourceId": "159",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_normal",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_base",
+                                        "resourceId": "173",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "startupshell-logo3D_red",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "deep_red.jpg",
+                                        "resourceId": "181",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "180",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "None",
+                                        "resourceId": "182",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Model_1",
+                                        "resourceId": "186",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Model_2",
+                                        "resourceId": "187",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "startupshell_logo",
+                        "resourceId": "190",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "191",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "194",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Change_Lense_Back",
+                        "resourceId": "195",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Change_Lense_Front",
+                        "resourceId": "196",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "148",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "157",
+                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "159",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
+                },
+                {
+                    "id": "171",
+                    "path": "Textures\/speakeasy_diff.png"
+                },
+                {
+                    "id": "172",
+                    "path": "Textures\/speakeasy_spec.png"
+                },
+                {
+                    "id": "173",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
+                },
+                {
+                    "id": "175",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "181",
+                    "path": "startupshell-logo3D_red\/Textures\/deep_red.jpg"
+                },
+                {
+                    "id": "186",
+                    "path": "startupshell-logo3D_red\/Meshes\/Model_1.mesh"
+                },
+                {
+                    "id": "187",
+                    "path": "startupshell-logo3D_red\/Meshes\/Model_2.mesh"
+                },
+                {
+                    "id": "190",
+                    "path": "startupshell_logo.png"
+                },
+                {
+                    "id": "194",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "195",
+                    "path": "Change_Lense_Back.js"
+                },
+                {
+                    "id": "196",
+                    "path": "Change_Lense_Front.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1530144065171298:18953"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
