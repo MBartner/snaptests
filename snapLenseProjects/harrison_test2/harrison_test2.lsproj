@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1530144986382",
+    "lastChanged": "1530151399258",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -24,12 +24,6 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
-                    [
-                        "Change_Lense_Back"
-                    ],
-                    [
-                        "Change_Lense_Front"
-                    ],
                     [
                         "Materials"
                     ],
@@ -59,6 +53,12 @@
                     [
                         "Trophy [REMOVE_ME]",
                         "Textures"
+                    ],
+                    [
+                        "hideSprite"
+                    ],
+                    [
+                        "showSprite"
                     ],
                     [
                         "startupshell-logo3D_red"
@@ -125,7 +125,7 @@
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false"
+            "is_back_camera": "true"
         },
         "InspectorUiComponent": {
             "collapsedList": [
@@ -470,9 +470,9 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "195",
-                    "uid": "1530143317843166:7609",
-                    "name": "\/Resources\/Resource195.js",
+                    "resId": "197",
+                    "uid": "1530150632183049:11670",
+                    "name": "\/Resources\/Resource197.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1",
@@ -480,9 +480,9 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "196",
-                    "uid": "1530143897285468:16404",
-                    "name": "\/Resources\/Resource196.js",
+                    "resId": "198",
+                    "uid": "1530151190330341:20186",
+                    "name": "\/Resources\/Resource198.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1",
@@ -549,6 +549,30 @@
         }
     },
     "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1530144065171298:18953"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -763,13 +787,13 @@
                         "extension": "js"
                     },
                     {
-                        "name": "Change_Lense_Back",
-                        "resourceId": "195",
+                        "name": "showSprite",
+                        "resourceId": "197",
                         "extension": "js"
                     },
                     {
-                        "name": "Change_Lense_Front",
-                        "resourceId": "196",
+                        "name": "hideSprite",
+                        "resourceId": "198",
                         "extension": "js"
                     }
                 ]
@@ -848,38 +872,14 @@
                     "path": "Script.js"
                 },
                 {
-                    "id": "195",
-                    "path": "Change_Lense_Back.js"
+                    "id": "197",
+                    "path": "showSprite.js"
                 },
                 {
-                    "id": "196",
-                    "path": "Change_Lense_Front.js"
+                    "id": "198",
+                    "path": "hideSprite.js"
                 }
             ]
-        },
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1530144065171298:18953"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
         }
     }
 }
