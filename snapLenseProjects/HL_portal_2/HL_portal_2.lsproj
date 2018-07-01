@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1530227651168",
+    "lastChanged": "1530228865651",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -61,6 +61,48 @@
                     ],
                     [
                         "360Pic_1",
+                        "Textures",
+                        "study_1.JPG"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Materials"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Materials",
+                        "None"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Materials",
+                        "None_study_1.JPG"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Meshes"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Meshes",
+                        "Sphere"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Meshes",
+                        "Sphere.001"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Meshes",
+                        "Sphere_2"
+                    ],
+                    [
+                        "360Pic_2",
+                        "Textures"
+                    ],
+                    [
+                        "360Pic_2",
                         "Textures",
                         "study_1.JPG"
                     ],
@@ -1618,7 +1660,8 @@
                     "1526945588743343:402207",
                     "1526945588745290:402235",
                     "1526945588758209:402293",
-                    "1527102379652145:333571"
+                    "1527102379652145:333571",
+                    "1530228273313441:11519"
                 ]
             ]
         },
@@ -4550,7 +4593,7 @@
                     "additionalProperties": {
                         "name": "world"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -4563,7 +4606,7 @@
                         "relative": "C:\\Users\\Harrison\\Documents\\BEvr\\TerpRow\\imgs\\360\\study_1.JPG",
                         "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\TerpRow\\imgs\\360\\study_1.JPG"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "1",
                     "subtype": "0"
                 },
@@ -4646,6 +4689,79 @@
                     "flags": "1",
                     "type": "1",
                     "subtype": "0"
+                },
+                {
+                    "resId": "4027",
+                    "uid": "1530228111707065:9579",
+                    "name": "\/Resources\/Resource4027.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.fbx",
+                    "additionalProperties": {
+                        "name": "Sphere"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4028",
+                    "uid": "1530228273317545:11520",
+                    "name": "\/Resources\/Resource4028",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.obj",
+                    "additionalProperties": {
+                        "name": "None"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4029",
+                    "uid": "1530228273350406:11525",
+                    "name": "\/Resources\/Resource4029",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.obj",
+                    "additionalProperties": {
+                        "name": "None_study_1.JPG"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4030",
+                    "uid": "1530228273381829:11530",
+                    "name": "\/Resources\/Resource4030.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.obj",
+                    "additionalProperties": {
+                        "relative": "study_1.JPG",
+                        "absolute": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/study_1.JPG"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4034",
+                    "uid": "1530228273390474:11543",
+                    "name": "\/Resources\/Resource4034.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.obj",
+                    "additionalProperties": {
+                        "name": "Sphere"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4035",
+                    "uid": "1530228273385992:11539",
+                    "name": "\/Resources\/Resource4035.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360Pic_2.obj",
+                    "additionalProperties": {
+                        "name": "Sphere.001"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
                 }
             ]
         },
@@ -4674,7 +4790,11 @@
                 "13": "1530227232339073:14754",
                 "14": "1530227232339177:14755",
                 "15": "1530227232341138:14759",
-                "16": "1530227232341842:14763"
+                "16": "1530227232341842:14763",
+                "17": "1530228273313441:11519",
+                "18": "1530228273382221:11537",
+                "19": "1530228273386038:11541",
+                "20": "1530228631740977:16049"
             }
         },
         "LayerComponent": {
@@ -6067,6 +6187,60 @@
                                 "extension": "png"
                             }
                         ]
+                    },
+                    {
+                        "name": "360Pic_2",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Sphere",
+                                        "resourceId": "4027",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Sphere_2",
+                                        "resourceId": "4034",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Sphere.001",
+                                        "resourceId": "4035",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "study_1.JPG",
+                                        "resourceId": "4030",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "None",
+                                        "resourceId": "4028",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "None_study_1.JPG",
+                                        "resourceId": "4029",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
                     }
                 ],
                 "resources": [
@@ -6678,13 +6852,29 @@
                 {
                     "id": "4026",
                     "path": "Diffuse Textures\/Normal.png"
+                },
+                {
+                    "id": "4027",
+                    "path": "360Pic_2\/Meshes\/Sphere.mesh"
+                },
+                {
+                    "id": "4030",
+                    "path": "360Pic_2\/Textures\/study_1.JPG.png"
+                },
+                {
+                    "id": "4034",
+                    "path": "360Pic_2\/Meshes\/Sphere_2.mesh"
+                },
+                {
+                    "id": "4035",
+                    "path": "360Pic_2\/Meshes\/Sphere.001.mesh"
                 }
             ]
         },
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1530227232339177:14755"
+                    "1530227232341138:14759"
                 ]
             }
         },
