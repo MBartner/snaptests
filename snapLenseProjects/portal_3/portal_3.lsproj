@@ -1,0 +1,1095 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1530470666157",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "360_sphere_middle_2_2"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Materials"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Meshes"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Meshes",
+                        "Cube"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Meshes",
+                        "Cube.001"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Textures"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Textures",
+                        "study_1"
+                    ],
+                    [
+                        "360_sphere_middle_2_2",
+                        "Textures",
+                        "study_1.JPG"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "ground_grid"
+                    ],
+                    [
+                        "Materials",
+                        "portal_bounds"
+                    ],
+                    [
+                        "Materials",
+                        "portal_corner_max"
+                    ],
+                    [
+                        "Materials",
+                        "portal_corner_min"
+                    ],
+                    [
+                        "Materials",
+                        "portal_occluder [DO_NOT_EDIT]"
+                    ],
+                    [
+                        "Materials",
+                        "touch_collision [DO_NOT_EDIT]"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "ground_grid_mesh"
+                    ],
+                    [
+                        "Models",
+                        "portal_corner_sphere"
+                    ],
+                    [
+                        "Models",
+                        "touch_collision_cube"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "GroundGrid"
+                    ],
+                    [
+                        "Scripts",
+                        "Interactables"
+                    ],
+                    [
+                        "Scripts",
+                        "Interactables",
+                        "ApproachAnim"
+                    ],
+                    [
+                        "Scripts",
+                        "Interactables",
+                        "IdleAnim"
+                    ],
+                    [
+                        "Scripts",
+                        "Interactables",
+                        "TapAnim"
+                    ],
+                    [
+                        "Scripts",
+                        "PortalController"
+                    ],
+                    [
+                        "Scripts",
+                        "PortalEvents [EDIT_ME]"
+                    ],
+                    [
+                        "Scripts",
+                        "ShowHint"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Camera Output"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "SpecularEnvmap"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid"
+                    ],
+                    [
+                        "Textures",
+                        "ground_grid_mask"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_diff"
+                    ],
+                    [
+                        "Textures",
+                        "marvista_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1507215332717969:129907",
+                    "1507288390336216:79775",
+                    "1507289825478155:111692",
+                    "1507310299865649:68250",
+                    "1515547840819898:975700",
+                    "1516731766861545:242739",
+                    "1516731766861678:242762",
+                    "1516731766861855:242777",
+                    "1516733125689322:453513",
+                    "1516733125689617:453536",
+                    "1516733711339464:751054",
+                    "1516733711339885:751079",
+                    "1516733711340390:751088",
+                    "1516733711340516:751103",
+                    "1516733711340773:751148",
+                    "1516744234821985:1880373",
+                    "1516754593307012:59788",
+                    "1516756141696466:146562",
+                    "1520379566077546:200584",
+                    "1525373770287665:8380",
+                    "1525393367496598:18799",
+                    "1525393367497141:19030",
+                    "1525892521860100:21298",
+                    "1525982971098804:9045",
+                    "1525982971164179:9079",
+                    "1525984952964554:19680",
+                    "1525984952964633:19682",
+                    "1525984952965258:19690",
+                    "1525984953033795:19714",
+                    "1525984953033853:19716",
+                    "1525985848155958:40039",
+                    "1525985848156526:40047",
+                    "1525985848285931:40071",
+                    "1525985848285998:40073",
+                    "1525986548179266:64832",
+                    "1525986548179412:64836",
+                    "1525986548180006:64848",
+                    "1525986548226976:64876",
+                    "1525988432936134:133266",
+                    "1525988432936259:133270",
+                    "1525988432936773:133282",
+                    "1525988433026286:133310",
+                    "1525988433026360:133314",
+                    "1525995792797363:10584",
+                    "1526330444767000:39774",
+                    "1526330444772614:39778",
+                    "1526438703813945:5485",
+                    "1526438703814232:5493",
+                    "1526438704038258:5708",
+                    "1526438704061151:5740",
+                    "1526438704079535:5763",
+                    "1526438788344297:8802",
+                    "1526438788344371:8806",
+                    "1526502511256197:57316",
+                    "1526929479511000:6780",
+                    "1526929479511343:6788",
+                    "1526929479737095:6928",
+                    "1526929479956553:7147",
+                    "1526929479960384:7161",
+                    "1526929480035135:7241",
+                    "1526929480237890:7461",
+                    "1526929480356786:7594",
+                    "1526935308909861:63762",
+                    "1526935308909952:63766",
+                    "1526935308910006:63770",
+                    "1526935309179339:63985",
+                    "1526935309199221:64017",
+                    "1526935309215447:64040",
+                    "1526940772818973:179145",
+                    "1526940772819073:179149",
+                    "1526940772824194:179173",
+                    "1526941938557998:273763",
+                    "1526941938558092:273767",
+                    "1526941938558153:273771",
+                    "1526941938562106:273791",
+                    "1526941938563541:273801",
+                    "1526945588743343:402207",
+                    "1526945588745290:402235",
+                    "1526945588758209:402293",
+                    "1527102379652145:333571",
+                    "1530470374989036:17635"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f65c34a9fe7a049e834563573d64dfc3",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Portal",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1507307420091952:37380",
+                    "1507919873674691:174406",
+                    "1507920790980567:331721",
+                    "1508278319622124:341866",
+                    "1508278862372061:342893",
+                    "1508279201288739:343753",
+                    "1508363105801543:307671",
+                    "1508363118104121:308023",
+                    "1508363120888680:308148",
+                    "1508363175851024:316275"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1506936002846456:47982",
+                    "name": "\/Resources\/Resource142",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/romanshtemberko\/Desktop\/new_mat_prests\/uber\/uber.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "1669",
+                    "uid": "1507307349697515:27145",
+                    "name": "\/Resources\/Resource1669.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2044",
+                    "uid": "1515796858707288:207075",
+                    "name": "\/Resources\/Resource2044",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2058",
+                    "uid": "1516730062471960:141858",
+                    "name": "\/Resources\/Resource2058",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2069",
+                    "uid": "1516731766911365:243324",
+                    "name": "\/Resources\/Resource2069.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2070",
+                    "uid": "1516731766916637:243336",
+                    "name": "\/Resources\/Resource2070.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2234",
+                    "uid": "1516733125876158:454278",
+                    "name": "\/Resources\/Resource2234.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2406",
+                    "uid": "1516733711382395:751611",
+                    "name": "\/Resources\/Resource2406.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2408",
+                    "uid": "1516733711389507:751635",
+                    "name": "\/Resources\/Resource2408.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2642",
+                    "uid": "1516759118875129:425488",
+                    "name": "\/Resources\/Resource2642.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2643",
+                    "uid": "1516759118876457:425500",
+                    "name": "\/Resources\/Resource2643.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2644",
+                    "uid": "1516759118878757:425512",
+                    "name": "\/Resources\/Resource2644.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2645",
+                    "uid": "1516759118884560:425524",
+                    "name": "\/Resources\/Resource2645",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "2647",
+                    "uid": "1516826922939012:64370",
+                    "name": "\/Resources\/Resource2647.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3073",
+                    "uid": "1525386298081138:82530",
+                    "name": "\/Resources\/Resource3073.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3074",
+                    "uid": "1525386298084273:82542",
+                    "name": "\/Resources\/Resource3074.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3075",
+                    "uid": "1525386298091054:82554",
+                    "name": "\/Resources\/Resource3075.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3150",
+                    "uid": "1525821267101917:50234",
+                    "name": "\/Resources\/Resource3150.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3151",
+                    "uid": "1525821267103929:50246",
+                    "name": "\/Resources\/Resource3151.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3474",
+                    "uid": "1526329137760024:35777",
+                    "name": "\/Resources\/Resource3474.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3584",
+                    "uid": "1526427339204297:11999",
+                    "name": "\/Resources\/Resource3584",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3586",
+                    "uid": "1526427355844283:12139",
+                    "name": "\/Resources\/Resource3586",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3589",
+                    "uid": "1526427379385437:14491",
+                    "name": "\/Resources\/Resource3589.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "3660",
+                    "uid": "1526502511260584:57389",
+                    "name": "\/Resources\/Resource3660.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4012",
+                    "uid": "1527113486564462:872857",
+                    "name": "\/Resources\/Resource4012.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4021",
+                    "uid": "1530470375082429:17648",
+                    "name": "\/Resources\/Resource4021",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_middle_2_2.fbx",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4022",
+                    "uid": "1530470375158185:17653",
+                    "name": "\/Resources\/Resource4022.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_middle_2_2.fbx",
+                    "additionalProperties": {
+                        "relative": "study_1.JPG",
+                        "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4025",
+                    "uid": "1530470374992092:17638",
+                    "name": "\/Resources\/Resource4025.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_middle_2_2.fbx",
+                    "additionalProperties": {
+                        "name": "Cube.001"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4026",
+                    "uid": "1530470374993510:17642",
+                    "name": "\/Resources\/Resource4026.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_middle_2_2.fbx",
+                    "additionalProperties": {
+                        "name": "Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4027",
+                    "uid": "1530470375081937:17646",
+                    "name": "\/Resources\/Resource4027.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_middle_2_2.fbx",
+                    "additionalProperties": {
+                        "name": "Plane"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4028",
+                    "uid": "1530470486132385:18628",
+                    "name": "\/Resources\/Resource4028.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/study_1.JPG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1507307278212787:22640",
+                "1": "1507307349691263:27008",
+                "2": "1507310365349732:68565",
+                "3": "1515549282264140:1091749",
+                "4": "1515794832979486:159301",
+                "5": "1515794870293509:159314",
+                "6": "1516756433306425:178503",
+                "7": "1516758074075584:334177",
+                "8": "1516759118868766:425463",
+                "9": "1520379566077546:200584",
+                "10": "1526502511256197:57316",
+                "11": "1526502511256212:57319",
+                "12": "1526502511256346:57354",
+                "13": "1530470374989036:17635",
+                "14": "1530470374989123:17636",
+                "15": "1530470374992144:17640",
+                "16": "1530470374993558:17644"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Models",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "2234",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "portal_corner_sphere",
+                                "resourceId": "3589",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "4012",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "portal_occluder [DO_NOT_EDIT]",
+                                "resourceId": "142",
+                                "extension": ""
+                            },
+                            {
+                                "name": "portal_bounds",
+                                "resourceId": "2044",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision [DO_NOT_EDIT]",
+                                "resourceId": "2058",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "2645",
+                                "extension": ""
+                            },
+                            {
+                                "name": "portal_corner_min",
+                                "resourceId": "3584",
+                                "extension": ""
+                            },
+                            {
+                                "name": "portal_corner_max",
+                                "resourceId": "3586",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "marvista_diff",
+                                "resourceId": "2069",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "marvista_spec",
+                                "resourceId": "2070",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "2643",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "2644",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Base",
+                                "resourceId": "3073",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "resourceId": "3074",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "3075",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "3150",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "3151",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": [
+                            {
+                                "name": "Interactables",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "IdleAnim",
+                                        "resourceId": "2406",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "ApproachAnim",
+                                        "resourceId": "2408",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TapAnim",
+                                        "resourceId": "3474",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "PortalController",
+                                "resourceId": "1669",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "2642",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "PortalEvents [EDIT_ME]",
+                                "resourceId": "2647",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "ShowHint",
+                                "resourceId": "3660",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "360_sphere_middle_2_2",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "study_1.JPG",
+                                        "resourceId": "4022",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "study_1",
+                                        "resourceId": "4028",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "4021",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Cube.001",
+                                        "resourceId": "4025",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Cube",
+                                        "resourceId": "4026",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Plane",
+                                        "resourceId": "4027",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "1669",
+                    "path": "Scripts\/PortalController.js"
+                },
+                {
+                    "id": "2069",
+                    "path": "Textures\/marvista_diff.png"
+                },
+                {
+                    "id": "2070",
+                    "path": "Textures\/marvista_spec.png"
+                },
+                {
+                    "id": "2234",
+                    "path": "Models\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "2406",
+                    "path": "Scripts\/Interactables\/IdleAnim.js"
+                },
+                {
+                    "id": "2408",
+                    "path": "Scripts\/Interactables\/ApproachAnim.js"
+                },
+                {
+                    "id": "2642",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "2643",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "2644",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "2647",
+                    "path": "Scripts\/PortalEvents [EDIT_ME].js"
+                },
+                {
+                    "id": "3073",
+                    "path": "Textures\/Base.png"
+                },
+                {
+                    "id": "3074",
+                    "path": "Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "3075",
+                    "path": "Textures\/Normal.png"
+                },
+                {
+                    "id": "3150",
+                    "path": "Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "3151",
+                    "path": "Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "3474",
+                    "path": "Scripts\/Interactables\/TapAnim.js"
+                },
+                {
+                    "id": "3589",
+                    "path": "Models\/portal_corner_sphere.mesh"
+                },
+                {
+                    "id": "3660",
+                    "path": "Scripts\/ShowHint.js"
+                },
+                {
+                    "id": "4012",
+                    "path": "Models\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "4022",
+                    "path": "360_sphere_middle_2_2\/Textures\/study_1.JPG.png"
+                },
+                {
+                    "id": "4025",
+                    "path": "360_sphere_middle_2_2\/Meshes\/Cube.001.mesh"
+                },
+                {
+                    "id": "4026",
+                    "path": "360_sphere_middle_2_2\/Meshes\/Cube.mesh"
+                },
+                {
+                    "id": "4027",
+                    "path": "360_sphere_middle_2_2\/Meshes\/Plane.mesh"
+                },
+                {
+                    "id": "4028",
+                    "path": "360_sphere_middle_2_2\/Textures\/study_1.jpg"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
