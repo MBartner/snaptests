@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1530151399258",
+    "lastChanged": "1530593885842",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -40,25 +40,11 @@
                         "Scripts"
                     ],
                     [
+                        "Scripts",
+                        "ToggleSprite"
+                    ],
+                    [
                         "Textures"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Materials",
-                        "trophy_pbr"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Textures"
-                    ],
-                    [
-                        "hideSprite"
-                    ],
-                    [
-                        "showSprite"
                     ],
                     [
                         "startupshell-logo3D_red"
@@ -108,9 +94,7 @@
                     "1498868548554305:767",
                     "1508884415036595:113880",
                     "1510687041436767:18328",
-                    "1520377736560929:83996",
-                    "1529974774827500:10821",
-                    "1529975226099671:13782"
+                    "1520377736560929:83996"
                 ]
             ]
         },
@@ -125,11 +109,15 @@
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "true"
+            "is_back_camera": "false"
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1530142883263273:893",
+                    "1530151208566373:6777",
+                    "1530590918430623:82938"
+                ]
             ]
         },
         "LayerUiComponent": {
@@ -251,38 +239,6 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "157",
-                    "uid": "1510687041464881:18334",
-                    "name": "\/Resources\/Resource157.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": {
-                        "name": "trophy"
-                    },
-                    "flags": "5",
-                    "type": "3",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "159",
-                    "uid": "1510687140422169:18756",
-                    "name": "\/Resources\/Resource159.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "160",
-                    "uid": "1510687140556884:18765",
-                    "name": "\/Resources\/Resource160.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
                     "resId": "171",
                     "uid": "1510687316698085:19056",
                     "name": "\/Resources\/Resource171.png",
@@ -296,16 +252,6 @@
                     "resId": "172",
                     "uid": "1510687316714742:19065",
                     "name": "\/Resources\/Resource172.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "173",
-                    "uid": "1510853662796593:7374",
-                    "name": "\/Resources\/Resource173.png",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1",
@@ -340,20 +286,6 @@
                     "resId": "176",
                     "uid": "1511403791848190:291597",
                     "name": "\/Resources\/Resource176",
-                    "sourceFilePath": "",
-                    "additionalProperties": {
-                        "pass_source": [
-                            ""
-                        ]
-                    },
-                    "flags": "1",
-                    "type": "2",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "179",
-                    "uid": "1520028540541521:739995",
-                    "name": "\/Resources\/Resource179",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
@@ -470,19 +402,9 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "197",
-                    "uid": "1530150632183049:11670",
-                    "name": "\/Resources\/Resource197.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "198",
-                    "uid": "1530151190330341:20186",
-                    "name": "\/Resources\/Resource198.js",
+                    "resId": "199",
+                    "uid": "1530589349022727:78085",
+                    "name": "\/Resources\/Resource199.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1",
@@ -549,30 +471,6 @@
         }
     },
     "controller": {
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1530144065171298:18953"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
-        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -589,6 +487,11 @@
                             {
                                 "name": "WorldObjectController",
                                 "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "ToggleSprite",
+                                "resourceId": "199",
                                 "extension": "js"
                             }
                         ]
@@ -672,55 +575,6 @@
                         ]
                     },
                     {
-                        "name": "Trophy [REMOVE_ME]",
-                        "groups": [
-                            {
-                                "name": "Materials",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy_pbr",
-                                        "resourceId": "179",
-                                        "extension": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Meshes",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy",
-                                        "resourceId": "157",
-                                        "extension": "mesh"
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Textures",
-                                "groups": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy_02_lambert1_materialParams",
-                                        "resourceId": "159",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "trophy_02_lambert1_normal",
-                                        "resourceId": "160",
-                                        "extension": "png"
-                                    },
-                                    {
-                                        "name": "trophy_02_lambert1_base",
-                                        "resourceId": "173",
-                                        "extension": "png"
-                                    }
-                                ]
-                            }
-                        ],
-                        "resources": ""
-                    },
-                    {
                         "name": "startupshell-logo3D_red",
                         "groups": [
                             {
@@ -772,11 +626,6 @@
                 ],
                 "resources": [
                     {
-                        "name": "startupshell_logo",
-                        "resourceId": "190",
-                        "extension": "png"
-                    },
-                    {
                         "name": "Orthographic Camera Output",
                         "resourceId": "191",
                         "extension": ""
@@ -787,14 +636,9 @@
                         "extension": "js"
                     },
                     {
-                        "name": "showSprite",
-                        "resourceId": "197",
-                        "extension": "js"
-                    },
-                    {
-                        "name": "hideSprite",
-                        "resourceId": "198",
-                        "extension": "js"
+                        "name": "startupshell_logo",
+                        "resourceId": "190",
+                        "extension": "png"
                     }
                 ]
             },
@@ -824,28 +668,12 @@
                     "path": "Meshes\/touch_collision_cube.mesh"
                 },
                 {
-                    "id": "157",
-                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
-                },
-                {
-                    "id": "159",
-                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
-                },
-                {
-                    "id": "160",
-                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
-                },
-                {
                     "id": "171",
                     "path": "Textures\/speakeasy_diff.png"
                 },
                 {
                     "id": "172",
                     "path": "Textures\/speakeasy_spec.png"
-                },
-                {
-                    "id": "173",
-                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
                 },
                 {
                     "id": "175",
@@ -872,14 +700,34 @@
                     "path": "Script.js"
                 },
                 {
-                    "id": "197",
-                    "path": "showSprite.js"
-                },
-                {
-                    "id": "198",
-                    "path": "hideSprite.js"
+                    "id": "199",
+                    "path": "Scripts\/ToggleSprite.js"
                 }
             ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1530144065171298:18953"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
         }
     }
 }
