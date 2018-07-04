@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1530470666157",
+    "lastChanged": "1530663775591",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -24,6 +24,51 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "360_sphere_2"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Materials"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Meshes"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Meshes",
+                        "Door"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Meshes",
+                        "Globe"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Meshes",
+                        "Occlusion_Cube"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Textures"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Textures",
+                        "study_1"
+                    ],
+                    [
+                        "360_sphere_2",
+                        "Textures",
+                        "study_1.JPG"
+                    ],
                     [
                         "360_sphere_middle_2_2"
                     ],
@@ -66,6 +111,88 @@
                     ],
                     [
                         "360_sphere_middle_2_2",
+                        "Textures",
+                        "study_1.JPG"
+                    ],
+                    [
+                        "360_sphere_small_2"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Meshes"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Meshes",
+                        "Door"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Meshes",
+                        "Globe"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Meshes",
+                        "Occlusion_Cube"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Textures",
+                        "study_1"
+                    ],
+                    [
+                        "360_sphere_small_2",
+                        "Textures",
+                        "study_1.JPG"
+                    ],
+                    [
+                        "360_sphere_small_3"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Materials"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Materials",
+                        "Material.001"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Meshes"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Meshes",
+                        "Door"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Meshes",
+                        "Globe"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Meshes",
+                        "Occlusion_Cube"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Textures"
+                    ],
+                    [
+                        "360_sphere_small_3",
+                        "Textures",
+                        "study_1"
+                    ],
+                    [
+                        "360_sphere_small_3",
                         "Textures",
                         "study_1.JPG"
                     ],
@@ -282,7 +409,8 @@
                     "1526945588745290:402235",
                     "1526945588758209:402293",
                     "1527102379652145:333571",
-                    "1530470374989036:17635"
+                    "1530470374989036:17635",
+                    "1530663224724044:5608"
                 ]
             ]
         },
@@ -631,7 +759,7 @@
                     "additionalProperties": {
                         "name": "Material.001"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -644,7 +772,7 @@
                         "relative": "study_1.JPG",
                         "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "1",
                     "subtype": "0"
                 },
@@ -693,6 +821,219 @@
                     "flags": "1",
                     "type": "1",
                     "subtype": "0"
+                },
+                {
+                    "resId": "4029",
+                    "uid": "1530497234694068:2470",
+                    "name": "\/Resources\/Resource4029",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_2.fbx",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4030",
+                    "uid": "1530497234727122:2475",
+                    "name": "\/Resources\/Resource4030.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_2.fbx",
+                    "additionalProperties": {
+                        "relative": "study_1.JPG",
+                        "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
+                    },
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4033",
+                    "uid": "1530497234603805:2460",
+                    "name": "\/Resources\/Resource4033.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_2.fbx",
+                    "additionalProperties": {
+                        "name": "Door"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4034",
+                    "uid": "1530497234605142:2464",
+                    "name": "\/Resources\/Resource4034.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_2.fbx",
+                    "additionalProperties": {
+                        "name": "Occlusion_Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4035",
+                    "uid": "1530497234692960:2468",
+                    "name": "\/Resources\/Resource4035.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_2.fbx",
+                    "additionalProperties": {
+                        "name": "Globe"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4036",
+                    "uid": "1530497381896430:3672",
+                    "name": "\/Resources\/Resource4036.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/study_1.JPG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4037",
+                    "uid": "1530497600524926:3797",
+                    "name": "\/Resources\/Resource4037",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_3.fbx",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4038",
+                    "uid": "1530497600551342:3802",
+                    "name": "\/Resources\/Resource4038.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_3.fbx",
+                    "additionalProperties": {
+                        "relative": "study_1.JPG",
+                        "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
+                    },
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4041",
+                    "uid": "1530497600524459:3795",
+                    "name": "\/Resources\/Resource4041.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_3.fbx",
+                    "additionalProperties": {
+                        "name": "Globe"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4042",
+                    "uid": "1530497600437678:3787",
+                    "name": "\/Resources\/Resource4042.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_3.fbx",
+                    "additionalProperties": {
+                        "name": "Door"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4043",
+                    "uid": "1530497600438717:3791",
+                    "name": "\/Resources\/Resource4043.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_small_3.fbx",
+                    "additionalProperties": {
+                        "name": "Occlusion_Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4044",
+                    "uid": "1530497618826965:4390",
+                    "name": "\/Resources\/Resource4044.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/study_1.JPG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4045",
+                    "uid": "1530663224820401:5621",
+                    "name": "\/Resources\/Resource4045",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_2.0.fbx",
+                    "additionalProperties": {
+                        "name": "Material.001"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4046",
+                    "uid": "1530663224847742:5626",
+                    "name": "\/Resources\/Resource4046.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_2.0.fbx",
+                    "additionalProperties": {
+                        "relative": "study_1.JPG",
+                        "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4049",
+                    "uid": "1530663224727487:5611",
+                    "name": "\/Resources\/Resource4049.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_2.0.fbx",
+                    "additionalProperties": {
+                        "name": "Door"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4050",
+                    "uid": "1530663224819242:5619",
+                    "name": "\/Resources\/Resource4050.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_2.0.fbx",
+                    "additionalProperties": {
+                        "name": "Globe"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4051",
+                    "uid": "1530663224728494:5615",
+                    "name": "\/Resources\/Resource4051.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/360_sphere_2.0.fbx",
+                    "additionalProperties": {
+                        "name": "Occlusion_Cube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "4052",
+                    "uid": "1530663508589173:8702",
+                    "name": "\/Resources\/Resource4052.jpg",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/Portal\/study_1.JPG",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
                 }
             ]
         },
@@ -718,10 +1059,11 @@
                 "10": "1526502511256197:57316",
                 "11": "1526502511256212:57319",
                 "12": "1526502511256346:57354",
-                "13": "1530470374989036:17635",
-                "14": "1530470374989123:17636",
-                "15": "1530470374992144:17640",
-                "16": "1530470374993558:17644"
+                "13": "1530498191812809:7194",
+                "14": "1530663224724044:5608",
+                "15": "1530663224724514:5609",
+                "16": "1530663224727550:5613",
+                "17": "1530663224728548:5617"
             }
         },
         "LayerComponent": {
@@ -968,6 +1310,168 @@
                             }
                         ],
                         "resources": ""
+                    },
+                    {
+                        "name": "360_sphere_small_2",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "4029",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Door",
+                                        "resourceId": "4033",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Occlusion_Cube",
+                                        "resourceId": "4034",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Globe",
+                                        "resourceId": "4035",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "study_1.JPG",
+                                        "resourceId": "4030",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "study_1",
+                                        "resourceId": "4036",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "360_sphere_small_3",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "study_1.JPG",
+                                        "resourceId": "4038",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "study_1",
+                                        "resourceId": "4044",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "4037",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Door",
+                                        "resourceId": "4042",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Occlusion_Cube",
+                                        "resourceId": "4043",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Globe",
+                                        "resourceId": "4041",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "360_sphere_2",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "study_1.JPG",
+                                        "resourceId": "4046",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "study_1",
+                                        "resourceId": "4052",
+                                        "extension": "jpg"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.001",
+                                        "resourceId": "4045",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Door",
+                                        "resourceId": "4049",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Globe",
+                                        "resourceId": "4050",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Occlusion_Cube",
+                                        "resourceId": "4051",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
                     }
                 ],
                 "resources": ""
@@ -1068,11 +1572,78 @@
                 {
                     "id": "4028",
                     "path": "360_sphere_middle_2_2\/Textures\/study_1.jpg"
+                },
+                {
+                    "id": "4030",
+                    "path": "360_sphere_small_2\/Textures\/study_1.JPG.png"
+                },
+                {
+                    "id": "4033",
+                    "path": "360_sphere_small_2\/Meshes\/Door.mesh"
+                },
+                {
+                    "id": "4034",
+                    "path": "360_sphere_small_2\/Meshes\/Occlusion_Cube.mesh"
+                },
+                {
+                    "id": "4035",
+                    "path": "360_sphere_small_2\/Meshes\/Globe.mesh"
+                },
+                {
+                    "id": "4036",
+                    "path": "360_sphere_small_2\/Textures\/study_1.jpg"
+                },
+                {
+                    "id": "4038",
+                    "path": "360_sphere_small_3\/Textures\/study_1.JPG.png"
+                },
+                {
+                    "id": "4041",
+                    "path": "360_sphere_small_3\/Meshes\/Globe.mesh"
+                },
+                {
+                    "id": "4042",
+                    "path": "360_sphere_small_3\/Meshes\/Door.mesh"
+                },
+                {
+                    "id": "4043",
+                    "path": "360_sphere_small_3\/Meshes\/Occlusion_Cube.mesh"
+                },
+                {
+                    "id": "4044",
+                    "path": "360_sphere_small_3\/Textures\/study_1.jpg"
+                },
+                {
+                    "id": "4046",
+                    "path": "360_sphere_2\/Textures\/study_1.JPG.png"
+                },
+                {
+                    "id": "4049",
+                    "path": "360_sphere_2\/Meshes\/Door.mesh"
+                },
+                {
+                    "id": "4050",
+                    "path": "360_sphere_2\/Meshes\/Globe.mesh"
+                },
+                {
+                    "id": "4051",
+                    "path": "360_sphere_2\/Meshes\/Occlusion_Cube.mesh"
+                },
+                {
+                    "id": "4052",
+                    "path": "360_sphere_2\/Textures\/study_1.jpg"
                 }
             ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1507310365349732:68565",
+                    "1515794832979486:159301",
+                    "1515794870293509:159314",
+                    "1530663224724044:5608"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
