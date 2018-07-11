@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1530663775591",
+    "lastChanged": "1531275332537",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -972,7 +972,7 @@
                     "additionalProperties": {
                         "name": "Material.001"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -985,7 +985,7 @@
                         "relative": "study_1.JPG",
                         "absolute": "C:\\Users\\Harrison\\Documents\\BEvr\\snapLense\\snaptests\\Models\\Portal\\study_1.JPG"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "1",
                     "subtype": "0"
                 },
@@ -1459,13 +1459,13 @@
                                         "extension": "mesh"
                                     },
                                     {
-                                        "name": "Globe",
-                                        "resourceId": "4050",
+                                        "name": "Occlusion_Cube",
+                                        "resourceId": "4051",
                                         "extension": "mesh"
                                     },
                                     {
-                                        "name": "Occlusion_Cube",
-                                        "resourceId": "4051",
+                                        "name": "Globe",
+                                        "resourceId": "4050",
                                         "extension": "mesh"
                                     }
                                 ]
@@ -1638,10 +1638,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1507310365349732:68565",
-                    "1515794832979486:159301",
-                    "1515794870293509:159314",
-                    "1530663224724044:5608"
+                    "1507307278212787:22640"
                 ]
             }
         },
