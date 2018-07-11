@@ -1,0 +1,1251 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1530596773845",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Face Paint Patterns"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_lines_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "eye_mask_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "kitty_secondary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_primary"
+                    ],
+                    [
+                        "Face Paint Patterns",
+                        "swirl_secondary"
+                    ],
+                    [
+                        "Logos"
+                    ],
+                    [
+                        "Logos",
+                        "cat_animated"
+                    ],
+                    [
+                        "Logos",
+                        "sheep"
+                    ],
+                    [
+                        "Logos",
+                        "startupshell_logo_small"
+                    ],
+                    [
+                        "Logos",
+                        "wow"
+                    ],
+                    [
+                        "Logos",
+                        "yay"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Materials",
+                        "cap_logo"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Materials",
+                        "cap_main_primary"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Materials",
+                        "cap_main_secondary"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Materials",
+                        "cap_occluder"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Materials",
+                        "cap_shadow"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_logo"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_main"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_occluder"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Meshes",
+                        "cap_shadow"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "cap_diff"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "cap_mask"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "cap_norm"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "cap_shadow"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "cap_tech"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "logo_normal"
+                    ],
+                    [
+                        "Models",
+                        "Baseball Cap",
+                        "Textures",
+                        "logo_tech"
+                    ],
+                    [
+                        "Scripts",
+                        "BaseballCapController"
+                    ],
+                    [
+                        "Scripts",
+                        "BaseballCapProperties"
+                    ],
+                    [
+                        "Scripts",
+                        "EventHandler"
+                    ],
+                    [
+                        "Scripts",
+                        "HatRotate"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "logo_opacity_mask"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1519646016078432:20163",
+                    "1519649635294464:26959",
+                    "1519693795709998:5976",
+                    "1520546489934271:37113",
+                    "1521490711580703:78568",
+                    "1521565863891751:9464"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a1cfc34ecfeca5c8893cd38214fd9521",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Baseball Cap",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1519692851290800:4860",
+                    "1519692992521333:5390",
+                    "1519693795714559:5979",
+                    "1520298381338376:134273",
+                    "1520299776349775:8096",
+                    "1520300279177762:15793",
+                    "1520300333847500:16557",
+                    "1520535762333927:360595",
+                    "1521490348734815:69066",
+                    "1521490711583957:78571",
+                    "1521490722242044:79737",
+                    "1521689253683100:3572",
+                    "1522777905809660:212075",
+                    "1522777910886665:213217"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1519645753445471:20097",
+                    "name": "\/Resources\/Resource29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1519645753499756:20108",
+                    "name": "\/Resources\/Resource30.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1519650340962180:28545",
+                    "name": "\/Resources\/Resource84.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "85",
+                    "uid": "1519650512400208:28594",
+                    "name": "\/Resources\/Resource85.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1519650975119252:31122",
+                    "name": "\/Resources\/Resource86.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1519651602047634:32437",
+                    "name": "\/Resources\/Resource89.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1519658307765130:40346",
+                    "name": "\/Resources\/Resource111.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1519673772676472:19426",
+                    "name": "\/Resources\/Resource112.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1519674086465957:22446",
+                    "name": "\/Resources\/Resource113.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1519754130744548:3248",
+                    "name": "\/Resources\/Resource167.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "cap_logo"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1519754130705612:3222",
+                    "name": "\/Resources\/Resource168.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "cap_main"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "169",
+                    "uid": "1519754130786952:3274",
+                    "name": "\/Resources\/Resource169.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "cap_shadow1"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "170",
+                    "uid": "1519754130605282:3205",
+                    "name": "\/Resources\/Resource170.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "cap_occluder"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "187",
+                    "uid": "1519771519063885:698170",
+                    "name": "\/Resources\/Resource187.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1520032307868280:89760",
+                    "name": "\/Resources\/Resource196.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1520042272170585:616882",
+                    "name": "\/Resources\/Resource201.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1520042272210559:616895",
+                    "name": "\/Resources\/Resource202.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1520377546958795:14078",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1520377547060209:14091",
+                    "name": "\/Resources\/Resource233.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1520377547150090:14104",
+                    "name": "\/Resources\/Resource234.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1520377547220437:14117",
+                    "name": "\/Resources\/Resource235.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1520377547312498:14130",
+                    "name": "\/Resources\/Resource236.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1520377547422874:14143",
+                    "name": "\/Resources\/Resource237.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "244",
+                    "uid": "1520471086194215:87129",
+                    "name": "\/Resources\/Resource244.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "245",
+                    "uid": "1520471086316424:87142",
+                    "name": "\/Resources\/Resource245.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1521063287653669:62477",
+                    "name": "\/Resources\/Resource248",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "262",
+                    "uid": "1521565863898955:9479",
+                    "name": "\/Resources\/Resource262.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1521565863901901:9491",
+                    "name": "\/Resources\/Resource263.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1521566322842967:12042",
+                    "name": "\/Resources\/Resource264",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "268",
+                    "uid": "1521566401561274:13122",
+                    "name": "\/Resources\/Resource268",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "269",
+                    "uid": "1521566435636847:13942",
+                    "name": "\/Resources\/Resource269",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "270",
+                    "uid": "1521566479823201:14795",
+                    "name": "\/Resources\/Resource270",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "271",
+                    "uid": "1521566536124110:15086",
+                    "name": "\/Resources\/Resource271",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "274",
+                    "uid": "1522777905844993:212084",
+                    "name": "\/Resources\/Resource274.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "275",
+                    "uid": "1522777905884557:212096",
+                    "name": "\/Resources\/Resource275",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "276",
+                    "uid": "1522777905886792:212108",
+                    "name": "\/Resources\/Resource276.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "277",
+                    "uid": "1522777910931186:213226",
+                    "name": "\/Resources\/Resource277.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "278",
+                    "uid": "1522777910950832:213238",
+                    "name": "\/Resources\/Resource278",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "279",
+                    "uid": "1522777910952076:213250",
+                    "name": "\/Resources\/Resource279.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "280",
+                    "uid": "1530587365822664:1616",
+                    "name": "\/Resources\/Resource280",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "283",
+                    "uid": "1530587365829029:1653",
+                    "name": "\/Resources\/Resource283.png",
+                    "sourceFilePath": "\/var\/folders\/1g\/czg1qshd6gs163rhb5z8w38m0000gn\/T\/Lens Studio-Vdebbd\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "284",
+                    "uid": "1530587365830662:1662",
+                    "name": "\/Resources\/Resource284.jpg",
+                    "sourceFilePath": "\/var\/folders\/1g\/czg1qshd6gs163rhb5z8w38m0000gn\/T\/Lens Studio-Vdebbd\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "285",
+                    "uid": "1530587848605501:6755",
+                    "name": "\/Resources\/Resource285.png",
+                    "sourceFilePath": "\/Users\/0x10\/Desktop\/Projs\/SnapChat\/snaptests\/snapLenseProjects\/bartner_test1\/Public\/startupshell_logo_small.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "286",
+                    "uid": "1530594229148891:4641",
+                    "name": "\/Resources\/Resource286.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "287",
+                    "uid": "1530595616018479:25513",
+                    "name": "\/Resources\/Resource287.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1519673828987697:19514",
+                "1": "1519689117514299:44802",
+                "2": "1519754130603380:3189",
+                "3": "1519754130603614:3193",
+                "4": "1519754130603671:3197",
+                "5": "1519754130603718:3201",
+                "6": "1519754130693860:3216",
+                "7": "1519754130744127:3242",
+                "8": "1519754130786449:3268",
+                "9": "1519756765504245:288349",
+                "10": "1520546489934271:37113",
+                "11": "1521490711580703:78568",
+                "12": "1521565863891751:9464",
+                "13": "1521565863891780:9467",
+                "14": "1521565863891837:9473",
+                "15": "1521689253683100:3572",
+                "16": "1522777905809660:212075",
+                "17": "1522777910886665:213217",
+                "18": "1530594205244575:3531"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "BaseballCapController",
+                                "resourceId": "112",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "BaseballCapProperties",
+                                "resourceId": "187",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "EventHandler",
+                                "resourceId": "286",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "HatRotate",
+                                "resourceId": "287",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "groups": [
+                            {
+                                "name": "Baseball Cap",
+                                "groups": [
+                                    {
+                                        "name": "Meshes",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "cap_occluder",
+                                                "resourceId": "170",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "cap_main",
+                                                "resourceId": "168",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "cap_logo",
+                                                "resourceId": "167",
+                                                "extension": "mesh"
+                                            },
+                                            {
+                                                "name": "cap_shadow",
+                                                "resourceId": "169",
+                                                "extension": "mesh"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "logo_tech",
+                                                "resourceId": "29",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "logo_normal",
+                                                "resourceId": "30",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "cap_diff",
+                                                "resourceId": "84",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "cap_norm",
+                                                "resourceId": "85",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "cap_tech",
+                                                "resourceId": "86",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "cap_mask",
+                                                "resourceId": "89",
+                                                "extension": "jpg"
+                                            },
+                                            {
+                                                "name": "cap_shadow",
+                                                "resourceId": "111",
+                                                "extension": "jpg"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "cap_main_primary",
+                                                "resourceId": "264",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "cap_main_secondary",
+                                                "resourceId": "268",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "cap_logo",
+                                                "resourceId": "269",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "cap_occluder",
+                                                "resourceId": "270",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "cap_shadow",
+                                                "resourceId": "271",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "logo_opacity_mask",
+                                "resourceId": "113",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "resourceId": "262",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "resourceId": "263",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Logos",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "sheep",
+                                "resourceId": "196",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "yay",
+                                "resourceId": "201",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "wow",
+                                "resourceId": "202",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "cat_animated",
+                                "resourceId": "248",
+                                "extension": ""
+                            },
+                            {
+                                "name": "startupshell_logo_small",
+                                "resourceId": "285",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Paint Patterns",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "swirl_primary",
+                                "resourceId": "232",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "swirl_secondary",
+                                "resourceId": "233",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "kitty_primary",
+                                "resourceId": "234",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "kitty_secondary",
+                                "resourceId": "235",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_lines_primary",
+                                "resourceId": "236",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_lines_secondary",
+                                "resourceId": "237",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_mask_primary",
+                                "resourceId": "244",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "eye_mask_secondary",
+                                "resourceId": "245",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "29",
+                    "path": "Models\/Baseball Cap\/Textures\/logo_tech.jpg"
+                },
+                {
+                    "id": "30",
+                    "path": "Models\/Baseball Cap\/Textures\/logo_normal.jpg"
+                },
+                {
+                    "id": "84",
+                    "path": "Models\/Baseball Cap\/Textures\/cap_diff.jpg"
+                },
+                {
+                    "id": "85",
+                    "path": "Models\/Baseball Cap\/Textures\/cap_norm.jpg"
+                },
+                {
+                    "id": "86",
+                    "path": "Models\/Baseball Cap\/Textures\/cap_tech.jpg"
+                },
+                {
+                    "id": "89",
+                    "path": "Models\/Baseball Cap\/Textures\/cap_mask.jpg"
+                },
+                {
+                    "id": "111",
+                    "path": "Models\/Baseball Cap\/Textures\/cap_shadow.jpg"
+                },
+                {
+                    "id": "112",
+                    "path": "Scripts\/BaseballCapController.js"
+                },
+                {
+                    "id": "113",
+                    "path": "Textures\/logo_opacity_mask.png"
+                },
+                {
+                    "id": "167",
+                    "path": "Models\/Baseball Cap\/Meshes\/cap_logo.mesh"
+                },
+                {
+                    "id": "168",
+                    "path": "Models\/Baseball Cap\/Meshes\/cap_main.mesh"
+                },
+                {
+                    "id": "169",
+                    "path": "Models\/Baseball Cap\/Meshes\/cap_shadow.mesh"
+                },
+                {
+                    "id": "170",
+                    "path": "Models\/Baseball Cap\/Meshes\/cap_occluder.mesh"
+                },
+                {
+                    "id": "187",
+                    "path": "Scripts\/BaseballCapProperties.js"
+                },
+                {
+                    "id": "196",
+                    "path": "Logos\/sheep.png"
+                },
+                {
+                    "id": "201",
+                    "path": "Logos\/yay.png"
+                },
+                {
+                    "id": "202",
+                    "path": "Logos\/wow.png"
+                },
+                {
+                    "id": "232",
+                    "path": "Face Paint Patterns\/swirl_primary.png"
+                },
+                {
+                    "id": "233",
+                    "path": "Face Paint Patterns\/swirl_secondary.png"
+                },
+                {
+                    "id": "234",
+                    "path": "Face Paint Patterns\/kitty_primary.png"
+                },
+                {
+                    "id": "235",
+                    "path": "Face Paint Patterns\/kitty_secondary.png"
+                },
+                {
+                    "id": "236",
+                    "path": "Face Paint Patterns\/eye_lines_primary.png"
+                },
+                {
+                    "id": "237",
+                    "path": "Face Paint Patterns\/eye_lines_secondary.png"
+                },
+                {
+                    "id": "244",
+                    "path": "Face Paint Patterns\/eye_mask_primary.png"
+                },
+                {
+                    "id": "245",
+                    "path": "Face Paint Patterns\/eye_mask_secondary.png"
+                },
+                {
+                    "id": "248",
+                    "path": "Logos\/cat_animated"
+                },
+                {
+                    "id": "262",
+                    "path": "Textures\/echopark_diff.png"
+                },
+                {
+                    "id": "263",
+                    "path": "Textures\/echopark_spec.png"
+                },
+                {
+                    "id": "285",
+                    "path": "Logos\/startupshell_logo_small.png"
+                },
+                {
+                    "id": "286",
+                    "path": "Scripts\/EventHandler.js"
+                },
+                {
+                    "id": "287",
+                    "path": "Scripts\/HatRotate.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1519689117514299:44802"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

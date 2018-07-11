@@ -1,7 +1,7 @@
 {
-    "lens_id": "",
+    "lens_id": "90e99e29-22ed-4568-83dc-f3652f2b79d6",
     "version": "0",
-    "lastChanged": "1531275332537",
+    "lastChanged": "1531278883578",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -415,12 +415,12 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "f65c34a9fe7a049e834563573d64dfc3",
+            "icon_hash": "78c62f7e6da4905c34f240ad6cb6b3a2",
             "icon_path": "icon.png",
             "hints": [
-                ""
+                "lens_hint_walk_through_the_door"
             ],
-            "lens": "Portal",
+            "lens": "Portal Example",
             "camera": "1",
             "lens_descriptors": ""
         },
@@ -1087,6 +1087,30 @@
         }
     },
     "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1507307278212787:22640"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -1634,30 +1658,6 @@
                     "path": "360_sphere_2\/Textures\/study_1.jpg"
                 }
             ]
-        },
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1507307278212787:22640"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
         }
     }
 }
