@@ -1,7 +1,7 @@
 {
-    "lens_id": "",
+    "lens_id": "30512c52-fbe3-45ea-bfea-e7f58924f586",
     "version": "0",
-    "lastChanged": "1530593885842",
+    "lastChanged": "1531278298241",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -99,13 +99,13 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_hash": "9c3616bbb4f6ccf2e989d676ca10f0dc",
             "icon_path": "icon.png",
             "hints": [
                 ""
             ],
-            "lens": "Static Object",
-            "camera": "1",
+            "lens": "2D 3D Example",
+            "camera": "2",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
@@ -471,6 +471,30 @@
         }
     },
     "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1530144065171298:18953"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -626,6 +650,11 @@
                 ],
                 "resources": [
                     {
+                        "name": "startupshell_logo",
+                        "resourceId": "190",
+                        "extension": "png"
+                    },
+                    {
                         "name": "Orthographic Camera Output",
                         "resourceId": "191",
                         "extension": ""
@@ -634,11 +663,6 @@
                         "name": "Script",
                         "resourceId": "194",
                         "extension": "js"
-                    },
-                    {
-                        "name": "startupshell_logo",
-                        "resourceId": "190",
-                        "extension": "png"
                     }
                 ]
             },
@@ -704,30 +728,6 @@
                     "path": "Scripts\/ToggleSprite.js"
                 }
             ]
-        },
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1530144065171298:18953"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
         }
     }
 }
