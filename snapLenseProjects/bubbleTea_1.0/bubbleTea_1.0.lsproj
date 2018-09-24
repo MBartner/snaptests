@@ -1,0 +1,533 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1537325490930",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Billboard Textures [REPLACE_ME]",
+                        "background_image [REPLACE_ME]"
+                    ],
+                    [
+                        "Billboard Textures [REPLACE_ME]",
+                        "bubbleTea_cup"
+                    ],
+                    [
+                        "Billboard Textures [REPLACE_ME]",
+                        "primary_image [REPLACE_ME]"
+                    ],
+                    [
+                        "ParticleResources"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Materials"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Materials",
+                        "particle_blizzard [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes",
+                        "emitter_1000"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fireball_2x2"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BlizzardController"
+                    ],
+                    [
+                        "Scripts",
+                        "FaceInsetController"
+                    ],
+                    [
+                        "Textures"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1524783511396346:19889",
+                    "1524788899821858:34017"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "df0168abcec902c58abad53c5600513f",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "Face In Picture",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1524783133817508:10692",
+                    "1524783196802731:11758",
+                    "1524783789075243:23281",
+                    "1524790539798014:61669",
+                    "1526434734031729:76282"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "3",
+                    "uid": "1521051321310141:1102",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1521065657461288:8032",
+                    "name": "\/Resources\/Resource24",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1524783067853453:7720",
+                    "name": "\/Resources\/Resource39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1524783511399764:19927",
+                    "name": "\/Resources\/Resource40.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1524783511404724:19939",
+                    "name": "\/Resources\/Resource41",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/VertexLighting\/Public\/Weather\/Snow\/GPU-Particle_Preset_Snow\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1524783511407547:19951",
+                    "name": "\/Resources\/Resource42.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1524783511408825:19963",
+                    "name": "\/Resources\/Resource43.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1524790698145462:67523",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/mats\/FaceInsetPreset\/Resources\/Resource12\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1524790698146749:67535",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1524790790658228:70105",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/mats\/FaceInsetPreset\/Resources\/Resource12\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1524790816070741:70848",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/mats\/FaceInsetPreset\/Resources\/Resource12\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1524862387641196:13480",
+                    "name": "\/Resources\/Resource64.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1526071528444818:2626",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/mats\/FaceInsetPreset\/Resources\/Resource12\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1526434499374975:71318",
+                    "name": "\/Resources\/Resource75.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1537325189406931:3411",
+                    "name": "\/Resources\/Resource76.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/bubbleTea_cup.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1521051321262419:1013",
+                "1": "1521051321310427:1111",
+                "2": "1521065657379651:8008",
+                "3": "1524790698090065:67514",
+                "4": "1524790790658074:70098",
+                "5": "1524790816070528:70841",
+                "6": "1525475027496094:137750",
+                "7": "1526071528444616:2619",
+                "8": "1526071829721981:9889"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "ParticleResources",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000",
+                                        "resourceId": "40",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "fireball_2x2",
+                                        "resourceId": "43",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "particle_blizzard [EDIT_ME]",
+                                        "resourceId": "41",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "BlizzardController",
+                                "resourceId": "42",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "FaceInsetController",
+                                "resourceId": "64",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "orthographic_camera_output",
+                                "resourceId": "3",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Billboard Textures [REPLACE_ME]",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "primary_image [REPLACE_ME]",
+                                "resourceId": "39",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "background_image [REPLACE_ME]",
+                                "resourceId": "75",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "bubbleTea_cup",
+                                "resourceId": "76",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": ""
+            },
+            "publicAssets": [
+                {
+                    "id": "39",
+                    "path": "Billboard Textures [REPLACE_ME]\/primary_image [REPLACE_ME].png"
+                },
+                {
+                    "id": "40",
+                    "path": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                },
+                {
+                    "id": "42",
+                    "path": "Scripts\/BlizzardController.js"
+                },
+                {
+                    "id": "43",
+                    "path": "ParticleResources\/Textures\/fireball_2x2.png"
+                },
+                {
+                    "id": "64",
+                    "path": "Scripts\/FaceInsetController.js"
+                },
+                {
+                    "id": "75",
+                    "path": "Billboard Textures [REPLACE_ME]\/background_image [REPLACE_ME].png"
+                },
+                {
+                    "id": "76",
+                    "path": "Billboard Textures [REPLACE_ME]\/bubbleTea_cup.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1524790816070528:70841"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

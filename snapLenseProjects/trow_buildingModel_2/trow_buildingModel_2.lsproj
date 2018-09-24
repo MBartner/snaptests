@@ -1,0 +1,1226 @@
+{
+    "lens_id": "af05ac5f-a68a-4386-b638-e4ddeca530c5",
+    "version": "0",
+    "lastChanged": "1535051029051",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "BuildingModel2"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "Material.002"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "Material.003"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "Material.003_wallTexture1.png"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "wall2"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "wall2_NONE"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Materials",
+                        "wall2_wallTexture1.png"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building1_Plane_1"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building1_Plane_2"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building1_Plane_3"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building2_Plane.001_1"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building2_Plane.001_2"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building2_Plane.001_3"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building3_Plane.002_1"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building3_Plane.002_2"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Meshes",
+                        "Building3_Plane.002_3"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Textures"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Textures",
+                        "root.png"
+                    ],
+                    [
+                        "BuildingModel2",
+                        "Textures",
+                        "wallTexture1.png"
+                    ],
+                    [
+                        "Materials",
+                        "ground"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures",
+                        "grounds"
+                    ],
+                    [
+                        "Textures",
+                        "map"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Materials",
+                        "trophy_pbr"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Plane"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "grounds"
+                    ],
+                    [
+                        "Trophy [REMOVE_ME]",
+                        "grounds_2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1508884415036595:113880",
+                    "1510687041436767:18328",
+                    "1520377736560929:83996",
+                    "1530152474518091:44486",
+                    "1530152474737044:44531",
+                    "1530152474737380:44544",
+                    "1530152603264004:45703",
+                    "1530152603264329:45716",
+                    "1530152603264606:45729"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Static Object",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "1",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "ground_grid_mesh"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1498868172316494:515",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1498868172318940:524",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1508885097330183:132242",
+                    "name": "\/Resources\/Resource148.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "TouchCollisionCube"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1510687041464881:18334",
+                    "name": "\/Resources\/Resource157.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "trophy"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1510687140422169:18756",
+                    "name": "\/Resources\/Resource159.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1510687140556884:18765",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1510687316698085:19056",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "172",
+                    "uid": "1510687316714742:19065",
+                    "name": "\/Resources\/Resource172.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "173",
+                    "uid": "1510853662796593:7374",
+                    "name": "\/Resources\/Resource173.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "174",
+                    "uid": "1511403648791631:290790",
+                    "name": "\/Resources\/Resource174",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "175",
+                    "uid": "1511403648794329:290802",
+                    "name": "\/Resources\/Resource175.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "176",
+                    "uid": "1511403791848190:291597",
+                    "name": "\/Resources\/Resource176",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "179",
+                    "uid": "1520028540541521:739995",
+                    "name": "\/Resources\/Resource179",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1530152603091525:45659",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Material.002"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1530152603138273:45664",
+                    "name": "\/Resources\/Resource206.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "relative": ".\\wallTexture1.png",
+                        "absolute": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/.\\wallTexture1.png"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "207",
+                    "uid": "1530152603139177:45671",
+                    "name": "\/Resources\/Resource207",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Material.003"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1530152603170211:45676",
+                    "name": "\/Resources\/Resource208.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "relative": ".\\root.png",
+                        "absolute": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/.\\root.png"
+                    },
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1530152603171000:45683",
+                    "name": "\/Resources\/Resource209",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Material.003_wallTexture1.png"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1530152603194459:45688",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "wall2"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1530152603217197:45693",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "wall2_NONE"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1530152603239728:45698",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "wall2_wallTexture1.png"
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1530152603264699:45732",
+                    "name": "\/Resources\/Resource221.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building1_Plane_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1530152603264796:45736",
+                    "name": "\/Resources\/Resource222.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building1_Plane_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1530152603264888:45740",
+                    "name": "\/Resources\/Resource223.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building1_Plane_3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1530152603264424:45719",
+                    "name": "\/Resources\/Resource224.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building2_Plane.001_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1530152603264517:45723",
+                    "name": "\/Resources\/Resource225.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building2_Plane.001_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1530152603264601:45727",
+                    "name": "\/Resources\/Resource226.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building2_Plane.001_3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1530152603264134:45706",
+                    "name": "\/Resources\/Resource227.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building3_Plane.002_1"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1530152603264228:45710",
+                    "name": "\/Resources\/Resource228.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building3_Plane.002_2"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "229",
+                    "uid": "1530152603264322:45714",
+                    "name": "\/Resources\/Resource229.mesh",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/BuildingModel2.obj",
+                    "additionalProperties": {
+                        "name": "Building3_Plane.002_3"
+                    },
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "230",
+                    "uid": "1530152896719794:48416",
+                    "name": "\/Resources\/Resource230.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/grounds.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1530152907523910:48491",
+                    "name": "\/Resources\/Resource231.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/grounds.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1530152918911275:48500",
+                    "name": "\/Resources\/Resource232.mesh",
+                    "sourceFilePath": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1530152989186748:49183",
+                    "name": "\/Resources\/Resource241.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/Models\/trow\/grounds.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1530153035821029:49346",
+                    "name": "\/Resources\/Resource247",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "253",
+                    "uid": "1530153097075745:50701",
+                    "name": "\/Resources\/Resource253.mesh",
+                    "sourceFilePath": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "254",
+                    "uid": "1535050383111356:4960",
+                    "name": "\/Resources\/Resource254.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Pictures\/map.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1535050400340412:5016",
+                    "name": "\/Resources\/Resource255.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363",
+                "1": "1507675612124687:16502",
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1520028516590214:738911",
+                "6": "1520377736560929:83996",
+                "7": "1530152603090506:45658",
+                "8": "1530152603264004:45703",
+                "9": "1530152603264013:45704",
+                "10": "1530152603264141:45708",
+                "11": "1530152603264231:45712",
+                "12": "1530152603264329:45716",
+                "13": "1530152603264331:45717",
+                "14": "1530152603264428:45721",
+                "15": "1530152603264520:45725",
+                "16": "1530152603264606:45729",
+                "17": "1530152603264608:45730",
+                "18": "1530152603264702:45734",
+                "19": "1530152603264799:45738",
+                "20": "1530153046520050:49361"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "1",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "GroundGrid",
+                                "resourceId": "7",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "camera_output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "device_camera_texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "ground_grid_mask",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_diff",
+                                "resourceId": "171",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "speakeasy_spec",
+                                "resourceId": "172",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "grounds",
+                                "resourceId": "241",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "map",
+                                "resourceId": "254",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Meshes",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh",
+                                "resourceId": "5",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "touch_collision_cube",
+                                "resourceId": "148",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "plane",
+                                "resourceId": "175",
+                                "extension": "mesh"
+                            },
+                            {
+                                "name": "Plane",
+                                "resourceId": "253",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ground_grid",
+                                "resourceId": "11",
+                                "extension": ""
+                            },
+                            {
+                                "name": "matte_shadow",
+                                "resourceId": "174",
+                                "extension": ""
+                            },
+                            {
+                                "name": "touch_collision",
+                                "resourceId": "176",
+                                "extension": ""
+                            },
+                            {
+                                "name": "ground",
+                                "resourceId": "247",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trophy [REMOVE_ME]",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_pbr",
+                                        "resourceId": "179",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy",
+                                        "resourceId": "157",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "trophy_02_lambert1_materialParams",
+                                        "resourceId": "159",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_normal",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "trophy_02_lambert1_base",
+                                        "resourceId": "173",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "grounds",
+                                "resourceId": "230",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "grounds_2",
+                                "resourceId": "231",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Plane",
+                                "resourceId": "232",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BuildingModel2",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "wallTexture1.png",
+                                        "resourceId": "206",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "root.png",
+                                        "resourceId": "208",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Material.002",
+                                        "resourceId": "205",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Material.003",
+                                        "resourceId": "207",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Material.003_wallTexture1.png",
+                                        "resourceId": "209",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "wall2",
+                                        "resourceId": "210",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "wall2_NONE",
+                                        "resourceId": "211",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "wall2_wallTexture1.png",
+                                        "resourceId": "212",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Building3_Plane.002_1",
+                                        "resourceId": "227",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building3_Plane.002_2",
+                                        "resourceId": "228",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building3_Plane.002_3",
+                                        "resourceId": "229",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building2_Plane.001_1",
+                                        "resourceId": "224",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building2_Plane.001_2",
+                                        "resourceId": "225",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building2_Plane.001_3",
+                                        "resourceId": "226",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building1_Plane_1",
+                                        "resourceId": "221",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building1_Plane_2",
+                                        "resourceId": "222",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "Building1_Plane_3",
+                                        "resourceId": "223",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Plane",
+                        "resourceId": "255",
+                        "extension": "mesh"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "5",
+                    "path": "Meshes\/ground_grid_mesh.mesh"
+                },
+                {
+                    "id": "7",
+                    "path": "Scripts\/GroundGrid.js"
+                },
+                {
+                    "id": "9",
+                    "path": "Textures\/ground_grid.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Textures\/ground_grid_mask.png"
+                },
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "148",
+                    "path": "Meshes\/touch_collision_cube.mesh"
+                },
+                {
+                    "id": "157",
+                    "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "159",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
+                },
+                {
+                    "id": "160",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
+                },
+                {
+                    "id": "171",
+                    "path": "Textures\/speakeasy_diff.png"
+                },
+                {
+                    "id": "172",
+                    "path": "Textures\/speakeasy_spec.png"
+                },
+                {
+                    "id": "173",
+                    "path": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
+                },
+                {
+                    "id": "175",
+                    "path": "Meshes\/plane.mesh"
+                },
+                {
+                    "id": "206",
+                    "path": "BuildingModel2\/Textures\/wallTexture1.png"
+                },
+                {
+                    "id": "208",
+                    "path": "BuildingModel2\/Textures\/root.png"
+                },
+                {
+                    "id": "221",
+                    "path": "BuildingModel2\/Meshes\/Building1_Plane_1.mesh"
+                },
+                {
+                    "id": "222",
+                    "path": "BuildingModel2\/Meshes\/Building1_Plane_2.mesh"
+                },
+                {
+                    "id": "223",
+                    "path": "BuildingModel2\/Meshes\/Building1_Plane_3.mesh"
+                },
+                {
+                    "id": "224",
+                    "path": "BuildingModel2\/Meshes\/Building2_Plane.001_1.mesh"
+                },
+                {
+                    "id": "225",
+                    "path": "BuildingModel2\/Meshes\/Building2_Plane.001_2.mesh"
+                },
+                {
+                    "id": "226",
+                    "path": "BuildingModel2\/Meshes\/Building2_Plane.001_3.mesh"
+                },
+                {
+                    "id": "227",
+                    "path": "BuildingModel2\/Meshes\/Building3_Plane.002_1.mesh"
+                },
+                {
+                    "id": "228",
+                    "path": "BuildingModel2\/Meshes\/Building3_Plane.002_2.mesh"
+                },
+                {
+                    "id": "229",
+                    "path": "BuildingModel2\/Meshes\/Building3_Plane.002_3.mesh"
+                },
+                {
+                    "id": "230",
+                    "path": "Trophy [REMOVE_ME]\/grounds.png"
+                },
+                {
+                    "id": "231",
+                    "path": "Trophy [REMOVE_ME]\/grounds_2.png"
+                },
+                {
+                    "id": "232",
+                    "path": "Trophy [REMOVE_ME]\/Plane.mesh"
+                },
+                {
+                    "id": "241",
+                    "path": "Textures\/grounds.png"
+                },
+                {
+                    "id": "253",
+                    "path": "Meshes\/Plane.mesh"
+                },
+                {
+                    "id": "254",
+                    "path": "Textures\/map.png"
+                },
+                {
+                    "id": "255",
+                    "path": "Plane.mesh"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
