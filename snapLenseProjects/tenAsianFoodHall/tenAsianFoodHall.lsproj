@@ -1,7 +1,7 @@
 {
-    "lens_id": "",
+    "lens_id": "1f26182a-609a-4506-8ba5-ae80111399c8",
     "version": "0",
-    "lastChanged": "1537815974108",
+    "lastChanged": "1537837337115",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -204,16 +204,15 @@
                         "Diffuse"
                     ],
                     [
+                        "Diffuse Textures"
+                    ],
+                    [
                         "Diffuse Textures",
                         "Base"
                     ],
                     [
                         "Diffuse Textures",
                         "Normal"
-                    ],
-                    [
-                        "Diffuse Textures",
-                        "tafhLogo"
                     ],
                     [
                         "Orthographic Camera Output"
@@ -228,6 +227,10 @@
                     [
                         "Textures",
                         "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "banner"
                     ],
                     [
                         "Textures",
@@ -410,12 +413,12 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "a2a5f03bd440f18deba7691f969a2e07",
+            "icon_hash": "95127cc78bec5e912d1ed6b9e55624de",
             "icon_path": "icon.png",
             "hints": [
-                ""
+                "lens_hint_find_face"
             ],
-            "lens": "2D Objects",
+            "lens": "TenAsianFoodHall",
             "camera": "2",
             "lens_descriptors": ""
         },
@@ -1017,16 +1020,6 @@
                     "subtype": "1"
                 },
                 {
-                    "resId": "764",
-                    "uid": "1537815521152729:128387",
-                    "name": "\/Resources\/Resource764.png",
-                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/pds\/snaptests\/snapLenseProjects\/tenAsianFoodHall\/Public\/Textures\/tafhLogo.png",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
                     "resId": "765",
                     "uid": "1537815724422552:3936",
                     "name": "Orthographic Camera Output",
@@ -1048,6 +1041,16 @@
                     },
                     "flags": "3",
                     "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "769",
+                    "uid": "1537821434560127:3183",
+                    "name": "\/Resources\/Resource769.png",
+                    "sourceFilePath": "C:\/Users\/Harrison\/Documents\/BEvr\/snapLense\/snaptests\/snapLenseProjects\/tenAsianFoodHall\/Public\/Textures\/banner.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
                     "subtype": "0"
                 }
             ]
@@ -1124,6 +1127,11 @@
                             {
                                 "name": "echopark_spec",
                                 "resourceId": "544",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "banner",
+                                "resourceId": "769",
                                 "extension": "png"
                             }
                         ]
@@ -1396,11 +1404,6 @@
                                 "name": "Normal",
                                 "resourceId": "743",
                                 "extension": "png"
-                            },
-                            {
-                                "name": "tafhLogo",
-                                "resourceId": "764",
-                                "extension": "png"
                             }
                         ]
                     }
@@ -1607,8 +1610,8 @@
                     "path": "Diffuse Textures\/Normal.png"
                 },
                 {
-                    "id": "764",
-                    "path": "Diffuse Textures\/tafhLogo.png"
+                    "id": "769",
+                    "path": "Textures\/banner.png"
                 }
             ]
         },
